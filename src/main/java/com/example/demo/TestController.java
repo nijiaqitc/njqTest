@@ -10,7 +10,6 @@ public class TestController {
     public  String test() {
         System.out.print("aaa");
         System.out.print("lalala");
-        System.out.print("lalala");
         return "aaa";
     }
 
